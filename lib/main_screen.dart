@@ -34,7 +34,7 @@ class MainScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             CircleAvatar(
-              backgroundImage: AssetImage('images/karina.jpeg'),
+              backgroundImage: AssetImage('images/karina.jpg'),
               backgroundColor: kPurple1,
               radius: 50.0,
             ),
